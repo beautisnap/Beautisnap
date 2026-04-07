@@ -9,7 +9,7 @@
       <sparkle:shortVersionString>1.03.04</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>12.4</sparkle:minimumSystemVersion>
       <enclosure url="https://github.com/beautisnap/Beautisnap/releases/download/v1.03.04/Beautisnap_1_03_04.dmg" length="3760180" type="application/octet-stream"
-        sparkle:edSignature="sCeeIepMNttU4BuC6xcIjfo3ssvLVGi3uoRphMBzifbm7OomfM++9WSe3VRtYO1jng8oDQWzfmimNv3vV71qDw==" length="3760180"
+        sparkle:edSignature="sCeeIepMNttU4BuC6xcIjfo3ssvLVGi3uoRphMBzifbm7OomfM++9WSe3VRtYO1jng8oDQWzfmimNv3vV71qDw=="
         />
     </item>
   </channel>
